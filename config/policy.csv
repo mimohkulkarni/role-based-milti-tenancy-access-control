@@ -1,0 +1,6 @@
+p, student, /getAllStudents, read
+p, teacher, /getAllStudents, read
+p, teacher, /add5Students, write
+p, admin, /*, read
+p, admin, /*, write
+g, teacher, student
